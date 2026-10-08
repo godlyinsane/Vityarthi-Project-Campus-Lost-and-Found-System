@@ -13,7 +13,7 @@ The project demonstrates important Java programming concepts such as **Classes &
 * **Project:** Campus Lost & Found Management System
 * **Programming Language:** Java
 * **Course:** JAVA Programming (CSE2006)
-* **Slot:** B22+B24
+* **Slot:** C11+C13
 * **Project Type:** Console-Based Application
 
 ---
