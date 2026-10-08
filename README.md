@@ -134,7 +134,7 @@ When the application starts again, previously saved records are automatically lo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology         | Purpose                    |
 | ------------------ | -------------------------- |
