@@ -6,7 +6,7 @@ The project demonstrates important Java programming concepts such as **Classes &
 
 ---
 
-## 👨‍💻 Project Information
+##  Project Information
 
 * **Student Name:** Priyansh Bhatt
 * **Registration No.:** 24BCY10077
