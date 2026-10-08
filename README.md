@@ -1,4 +1,4 @@
-# 🔎 Campus Lost & Found Management System
+#  Campus Lost & Found Management System
 
 A simple **console-based Java application** designed to help students report, search, and manage lost and found items on campus.
 
@@ -12,13 +12,13 @@ The project demonstrates important Java programming concepts such as **Classes &
 * **Registration No.:** 24BCY10077
 * **Project:** Campus Lost & Found Management System
 * **Programming Language:** Java
-* **Course:** JAVA Programming (CSE2006)
+* **Course:** Programming in Java (CSE2006)
 * **Slot:** C11+C13
 * **Project Type:** Console-Based Application
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Campus Lost & Found Management System** provides a simple way for students to keep track of items that are lost or found on campus.
 
@@ -40,7 +40,7 @@ The project is intentionally kept simple and easy to understand, making it suita
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -57,7 +57,7 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. Register User
 
@@ -240,7 +240,7 @@ The `final` keyword is used for file path constants that should not change durin
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 CampusLostAndFound/
@@ -289,7 +289,7 @@ Stores lost and found item information.
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 To run this project, you need:
 
@@ -311,7 +311,7 @@ javac -version
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1: Open the Project Folder
 
@@ -341,7 +341,7 @@ The program will start with the main menu.
 
 ---
 
-## 🖥️ Main Menu
+##  Main Menu
 
 ```text
 ======================================
@@ -364,7 +364,7 @@ Enter your choice:
 
 ---
 
-## 💾 File Handling
+##  File Handling
 
 The project uses simple text files instead of a database.
 
@@ -396,7 +396,7 @@ When the program starts again, the saved information is loaded automatically.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The application was tested for the following operations:
 
@@ -419,7 +419,7 @@ The application was tested for the following operations:
 
 ---
 
-## 📌 Sample Data
+##  Sample Data
 
 ### User
 
@@ -451,7 +451,7 @@ Status: Active
 
 ---
 
-## 🔄 Example Working Flow
+##  Example Working Flow
 
 ```text
 Start Program
@@ -477,7 +477,7 @@ Exit
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 After completing this project, the following concepts were practiced:
 
@@ -497,7 +497,7 @@ After completing this project, the following concepts were practiced:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 The project can be extended in the future by adding:
 
@@ -514,16 +514,16 @@ The project can be extended in the future by adding:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Priyansh Bhatt**
 Registration No.: **24BCY10077**
 VIT Bhopal University
-Course: **JAVA Programming (CSE2006)**
+Course: **Programming in Java (CSE2006)**
 
 ---
 
-## 📄 Project Type
+##  Project Type
 
 **Console-Based Java Application**
 
