@@ -1,0 +1,3 @@
+1001|Leather Wallet|Black leather wallet with college ID|HOSTEL 4|Lost|Active
+1003|Water Bottle|Milton Blue water bottle|Library|Found|Claimed
+1004|Earphones|BOAT TWS black mettalic color|AB1 Room no 416|Found|Active
