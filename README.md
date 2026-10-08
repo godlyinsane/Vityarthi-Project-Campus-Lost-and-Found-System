@@ -147,7 +147,7 @@ When the application starts again, previously saved records are automatically lo
 
 ---
 
-## 📚 Java Concepts Used
+##  Java Concepts Used
 
 ### Classes & Objects
 
